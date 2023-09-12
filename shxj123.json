@@ -15,9 +15,6 @@
 
 ],
 "parses":[
-{"name":"Json聚合","type":3,"url":"Demo"},
-{"name":"Web聚合","type":3,"url":"Web"},
-{"name":"并发2","type":2,"url":"Parallel"},{"name": "Json轮询01","type": 2,"url": "Sequence"}, 
     {
       "name": "非凡X解析",
       "type": 1,
