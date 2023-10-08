@@ -28,10 +28,8 @@
             {"name":"YT","type": 0,"url":"https://jx.yangtu.top/?url="},
 {
 		"name": "官解1",
-		"type": 1,
-		"url": "http://k8aa.com/jx/index.php?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		"type": 0,
+		"url": "http://k8aa.com/jx/index.php?url="}
 		} 
     },
 {
